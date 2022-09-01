@@ -4,6 +4,7 @@ target/
 workspace/resourcepacks/
 workspace/saves/
 workspace/shaderpacks/
+workspace/logs/
 
 workspace/options.txt
 workspace/optionsof.txt
