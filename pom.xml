@@ -22,14 +22,6 @@
     </repositories>
 
     <dependencies>
-        <!-- client dependencies -->
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.24</version>
-            <scope>provided</scope>
-        </dependency>
-        <!-- base dependencies -->
         <dependency>
             <groupId>com.mojang</groupId>
             <artifactId>netty</artifactId>
