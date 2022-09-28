@@ -9,5 +9,5 @@ ModCoderPack for Minecraft 1.8.9 using Maven
 
 ## build
 * run **maven clean**
-* run **maven install**
+* run **maven package**
 * jar location should be **/target/client.jar**
